@@ -1,7 +1,7 @@
 from selenium import webdriver
 from time import sleep
 
-driver = webdriver.Firefox()
+driver = webdriver.PhantomJS()
 driver.get("http://www.example.com") #any http site will do
 
 #Accept T&C checkbox

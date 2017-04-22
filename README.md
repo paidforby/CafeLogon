@@ -9,8 +9,7 @@ could be adapted for other cafes and networks)
 # pre-requistes  
 python  
 selenium  
-firefox
-geckodriver  
+phantomjs  
 
 # improvements to be made  
 include dependency install script  
