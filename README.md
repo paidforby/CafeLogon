@@ -12,7 +12,7 @@ selenium
 firefox
 geckodriver  
 
-#improvements to be made  
+# improvements to be made  
 include dependency install script  
 make headless with phantom js  
 auto run once your computer detects preset network  
