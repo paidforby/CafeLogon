@@ -15,4 +15,4 @@ sleep(5) #had difficulty with implicit wait with my firefox verision
 form = driver.find_element_by_class_name("atn-button-text")
 form.submit() #this currently opens a logout window? I don't mind it really, might be able to use it to do auto-reset?
 
-driver.close()
+driver.quit()

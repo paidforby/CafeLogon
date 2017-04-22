@@ -13,6 +13,6 @@ phantomjs
 
 # improvements to be made  
 include dependency install script  
-make headless with phantom js  
+test headlessness with phantom js  
 auto run once your computer detects preset network  
 add mac spoofer? or auto reset to anonymize your activity?
