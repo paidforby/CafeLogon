@@ -2,7 +2,7 @@ from selenium import webdriver
 from time import sleep
 
 driver = webdriver.PhantomJS()
-driver.get("http://www.example.com") #any http site will do
+driver.get('http://codeselfstudy.com') #any http site will do
 
 #Accept T&C checkbox
 checkbox = driver.find_element_by_id("comcastTermsCondition") #yes, that is really the id of the checkbox
